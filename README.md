@@ -1,2 +1,2 @@
-# final-year-project-BLOCKCHAIN-domain
-This is repo. we will work related to blockchain for our social media.
+# Final year project BLOCKCHAIN domain
+This is a repo. we will do all blockchain related task for our social media project.
